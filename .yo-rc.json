@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.infinite.myapp"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "monolith",
+    "baseName": "infinite",
+    "packageName": "com.infinite.myapp",
+    "packageFolder": "com/infinite/myapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjVjNTVjYTU3N2E1NGVmZjkzMGM3NmVhNGQxMTIxOGFjNzRlZWZlNmIwOWNhMDgyMjcxNTBjZmJiMzk0YTZmZWU5MzVjOWQzNDY5YWNhZDhhZGZjYzkxZjZiN2Y3ZTRhM2RjZjEzN2E1MGFlMWNmMzZlOTEyMDVjNWQ0MjNlOGQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": [],
+    "appsFolders": [
+      "infinite"
+    ],
+    "directoryPath": "../",
+    "monitoring": "no",
+    "consoleOptions": []
+  }
+}
